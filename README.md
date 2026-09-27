@@ -413,4 +413,4 @@ For questions, suggestions, or issues:
 
 ---
 
-*Built with Claude Code | September 2026*
+*Built by minal khalid | September 2026*
